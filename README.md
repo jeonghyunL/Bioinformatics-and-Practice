@@ -5,5 +5,9 @@ This program enables searching an appropriate restriction enzyme for cloning pre
 * ClaI
 * EcoRI
 * AvaI
+* BamHI
+* XhoI
+* DraI
+* HindIII
 
 Jeonghyun Lee <hsikt16@gmail.com>
