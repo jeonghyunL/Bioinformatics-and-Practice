@@ -1,13 +1,10 @@
-# Enzyme finder for miRNA cloning
+# Bioinformatics Term Project
 
-This program enables searching an appropriate restriction enzyme for cloning pre-miRNAs.
+## Overview
+RNA / RPF / CLIP 데이터를 이용한 분석
 
-* ClaI
-* EcoRI
-* AvaI
-* BamHI
-* XhoI
-* DraI
-* HindIII
+## Visualization
+- Scatter plot
+- Protein localization analysis
 
 Jeonghyun Lee <hsikt16@gmail.com>
